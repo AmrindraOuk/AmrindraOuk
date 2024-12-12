@@ -4,9 +4,8 @@
 creating intuitive and visually appealing user experiences.
 - Great knowledge of all phases of SDLC, including design,
 development, testing, implementation, and support.
-- Possess experience in handling legacy codebases, including COBOL, and have effectively converted them into Python.
-- Experience in designing and implementing responsive web designs and
-creating custom animations.
+- Possess experience in handling legacy codebases, including COBOL, and have effectively converted them into Python and SQL.
+- Experience in designing and implementing responsive web applications. 
 - Well-versed in the design and development of presentation layers for
 web applications using technologies like HTML, CSS, JavaScript, and React.
 - Good at utilizing CSS frameworks such as TailwindCSS, Chakra UI, Material UI, and Bootstrap.
