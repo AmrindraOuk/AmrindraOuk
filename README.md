@@ -29,8 +29,10 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
 
 # Frameworks
 - React.js
+- Next.js
 - Express.js
 - Django
+- FastApi
 
 # Tools:
 - PyCharm, VsCode
